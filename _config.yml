@@ -10,7 +10,16 @@ color:
     - '#F4DFCA'
     - '#D29B7B'
     - '#F3C7B2'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/df7c5a96-81d2-45f8-904e-76ac8b5c8121.png
+  appId: Luxury Simplified
+  type: 'Business Page '
 layout_spectrum: 0.24613389582373202
+author:
+  name: 'Chris Leigh-Jones '
+  email: chrislj@luxurysimplified.com
+  url: 'http://www.luxurysimplified.com/'
 name: Luxury Simplified
 navigation:
   - name: 'luxurysimplified.com '
