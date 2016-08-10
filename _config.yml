@@ -16,6 +16,8 @@ opengraph:
   appId: Luxury Simplified
   type: 'Business Page '
 layout_spectrum: 0.24613389582373202
+analytics:
+  twitter: 'https://twitter.com/LuxSimplified'
 author:
   name: 'Chris Leigh-Jones '
   email: chrislj@luxurysimplified.com
