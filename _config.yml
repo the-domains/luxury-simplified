@@ -12,5 +12,9 @@ color:
     - '#F3C7B2'
 layout_spectrum: 0.24613389582373202
 name: Luxury Simplified
+navigation:
+  - name: 'luxurysimplified.com '
+    url: 'http://www.luxurysimplified.com/'
+    type: external
 title: Buy. Sell. Stay. Restore. Build.
 description: A vertically integrated luxury real estate firm.
