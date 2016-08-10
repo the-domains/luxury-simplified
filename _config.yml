@@ -1,4 +1,3 @@
-layout_spectrum: 0.24613389582373202
 typography_spectrum: 0.8398042405024171
 color:
   brandStrength: 0.6251789859961718
@@ -11,4 +10,6 @@ color:
     - '#F4DFCA'
     - '#D29B7B'
     - '#F3C7B2'
+layout_spectrum: 0.24613389582373202
 name: Luxury Simplified
+title: Buy. Sell. Stay. Restore. Build.
