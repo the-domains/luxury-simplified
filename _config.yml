@@ -1,4 +1,6 @@
 typography_spectrum: 0.8398042405024171
+content_rating:
+  adult: false
 color:
   brandStrength: 0.6251789859961718
   lightness: 0.007317686919122934
@@ -14,7 +16,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/df7c5a96-81d2-45f8-904e-76ac8b5c8121.png
   appId: Luxury Simplified
-  type: 'Business Page '
+  type: 'Luxury Simplified Facebook '
 layout_spectrum: 0.24613389582373202
 analytics:
   twitter: 'https://twitter.com/LuxSimplified'
@@ -22,10 +24,14 @@ author:
   name: 'Chris Leigh-Jones '
   email: chrislj@luxurysimplified.com
   url: 'http://www.luxurysimplified.com/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c325640-e1fd-4228-914d-be2f7b34b548.png
 name: Luxury Simplified
 navigation:
   - name: 'luxurysimplified.com '
     url: 'http://www.luxurysimplified.com/'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aff5329-7a0f-455f-8e32-0a6f6565ca13.png
 title: Buy. Sell. Stay. Restore. Build.
 description: A vertically integrated luxury real estate firm.
